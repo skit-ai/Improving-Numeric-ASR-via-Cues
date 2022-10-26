@@ -1,6 +1,6 @@
 ## Improving Alphanumeric ASR via Cues
 
-## Generate TTS Audio
+## Synthetic Dataset
 
 1. Install [Coqui-TTS](https://github.com/coqui-ai/TTS).
 2. Edit Line 24 of [this script](./generate_synthetic_data/generate_audio.py) and set it to the python executable in which the Coqui-TTS is installed.
