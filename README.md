@@ -8,4 +8,4 @@
 
 ## Code for Experiments
 
-This will be released in the future. Delayed due to legal issues.
+This will be released in the future.
