@@ -1,4 +1,4 @@
-## Improving Alphanumeric ASR via Cues
+## Improving Numeric ASR via Cues
 
 ## Synthetic Dataset
 
